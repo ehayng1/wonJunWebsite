@@ -1,0 +1,135 @@
+{
+  "basic_info": {
+    "description_header": "Hi",
+    "description": "👋 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Rhoncus mattis rhoncus urna neque viverra. Viverra aliquet eget sit amet tellus cras adipiscing. Aliquet sagittis id consectetur purus ut faucibus pulvinar. Rhoncus aenean vel elit scelerisque. Nulla posuere sollicitudin aliquam ultrices sagittis orci a. Semper eget duis at tellus at urna. Ornare lectus sit amet est placerat in egestas erat imperdiet.",
+    "section_name": {
+      "about": "About me",
+      "projects": "Portfolio",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Animal Shelter",
+      "startDate": "2020",
+      "description": "The most expanded application I had opportunity to work with. I've learned many technologies and my code was reviewed by awesome curator. Application handles all adoption processess and allows to store all evidence on adopting animals from animal shelter.",
+      "images": [
+        "images/portfolio/line&curve/image1.jpeg",
+        "images/portfolio/animal-shelter/p2.jpg"
+      ],
+      "url": "",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Photography",
+      "startDate": "2018",
+      "description": "Personal project for study subject. I was responsible for testing photography application that optimizes images with popular algorithms used by graphic editors like Pixlr or Adobe Photoshop. I've earned A grade :)",
+      "images": [
+        "images/portfolio/photography/p1.jpg",
+        "images/portfolio/photography/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    },
+    {
+      "title": "3D Object Viewer",
+      "startDate": "2015",
+      "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+      "images": [
+        "images/portfolio/adventure/p1.jpg",
+        "images/portfolio/adventure/p2.jpg"
+      ],
+      "url": "https://github.com",
+      "technologies": [
+        {
+          "class": "devicon-angularjs-plain",
+          "name": "Angular"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque.",
+      "title": "Seoul Race",
+      "years": "10.2019 - 10.2019",
+      "mainTech": ["Activity Type"],
+      "technologies": [
+        "Marathon",
+        "Tag#1",
+        "Tag#2",
+        "Tag#3",
+        "Tag#4",
+        "Tag#4",
+        "Tag#5",
+        "Tag#6",
+        "Tag#7"
+      ]
+    },
+    {
+      "company": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque.",
+      "title": "Autism Race",
+      "years": "08.2021 - 08.2021",
+      "mainTech": ["Activity Type"],
+      "technologies": [
+        "Autism",
+        "Race",
+        "Tag#2",
+        "Tag#3",
+        "Tag#4",
+        "Tag#4",
+        "Tag#5",
+        "Tag#6",
+        "Tag#7"
+      ]
+    },
+    {
+      "company": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Nulla posuere sollicitudin aliquam ultrices sagittis orci a scelerisque.",
+      "title": "Vex Robotics",
+      "years": "02.2023 - 02.2023",
+      "mainTech": ["Activity Type"],
+      "technologies": [
+        "Robotics",
+        "National",
+        "Competition",
+        "Excellence",
+        "Award",
+        "Tag#4",
+        "Tag#5",
+        "Tag#6",
+        "Tag#7"
+      ]
+    }
+  ]
+}
